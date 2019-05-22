@@ -103,6 +103,10 @@ if(department != "Corporate"&& department != "Human Resources"){
   splitFullName(fullName);
 }
 }
+function incrementDepartmentCount(department) {
+//waiting for clarification. Counting people in all departments?Each department? Or counting number of departments
+} 
+
 //To-do 4
 function printOutFirstNames() {
 for (i = 0; i < employeesArray.length; i++) { 
