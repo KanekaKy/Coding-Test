@@ -1,1 +1,1 @@
-This repository is private and created to upload Allegiant Air's Software Engineering Internship Test . 
+This repository is private and created to upload a Software Engineering Internship Test . 
